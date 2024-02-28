@@ -6,9 +6,9 @@ export default function Header(){
             <div>
                 <span className="logo">Чудо-Магазин</span>
             </div>
-            <div className=>
+            <div className></div>
 
-            </div>
+            
 
         </header>
     );
