@@ -4,7 +4,7 @@ export default function Header(){
     return(
         <header>
             <div>
-                <span className="logo">Чудо-Магазин</span>
+                <span className="logo">Супер техника</span>
             </div>
             <div className></div>
 
